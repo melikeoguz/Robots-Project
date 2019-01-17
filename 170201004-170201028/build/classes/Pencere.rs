@@ -1,0 +1,13 @@
+paletli
+Pencere
+paralel
+tekerlekli
+robot
+hibrit
+IMANIPULATOR
+manipulator
+IROBOT
+gezgin
+IGEZGIN
+seri
+spider
