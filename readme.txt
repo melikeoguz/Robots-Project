@@ -1,37 +1,87 @@
-MELIKE OGUZ 170201028
-SEYMA NUR MUTLU 170201004
-                                                             
-Bu program Windows 8.1 ve macOs Mojave 10.14.2 isletim sistemleri uzerinde "Netbeans IDE" kullanýlarak yazilmistir.
-NetBeans IDE surumu 8.2
-                                                                       ROBOTLAR PROJESÝ
+# Project Title
 
-1-PAKETIN ICINDEKILER:
+One Paragraph of project description goes here
 
-170201004-170201028.txt - Programin tek dosyaya indirgenmiþ kaynak kodu
-readme.txt - Programi calistirmak icin gerekli bilgiler
-170201004-170201028.zip - Projenin kaynak kodunun ve yardýmcý dosyalarýn ziplenmiþ hali
-Rapor.doc - IEEE formatinda Proje raporu
+## Getting Started
 
-2-KURULUM
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-Programimiz yazilim gelistirme ortamlarindan biri olan "Java" ile yazilmistir. Programi calistirmak icin "https://www.java.com/tr/download/"  bu adrese girerek
-bilgisayariniza java ortamini kurabilirsiniz. Ayrica program NetBeans IDE uzerinde yazildigi icin "https://netbeans.org/downloads/?pagelang=pt_BR" bu siteden
-NetBeans IDE indirebilirsiniz.Detayli anlatimlar icin "https://www.youtube.com/watch?v=FO8iPIr60Hk" bu linki kullanabilirsiniz.
+### Prerequisites
 
-3-PROGRAMIN CALISTIRILMASI 
+What things you need to install the software and how to install them
 
-Gerekli indirme islemleri tamamlandiktan sonra NetBeans IDE programini aciniz. Sol üst kösede dosya simgesinin üstünde + isareti bulunan butona tiklayiniz. 
-"New Project" adli bir bolum karsiniza gelecektir.Oradan categories bolumunden "Java'yi" projects bolumunden "Java Application" secenegine tiklayip "next" butonuna 
-tiklayiniz. Karsiniza "Next Project Application" penceresi gelecektir. Proje ismine istediginiz adi girip asagidaki "Create Main Class" kutucugunda bulunan tik 
-isaretini kaldiriniz. "Finish" butonuna tikladiginiz zaman istediginiz java uygulamasi olusturulacaktir.
+```
+Give examples
+```
 
-Ekranin solunda "Project" kisminda olusturdugunuz java uygulamasini bulup 2 kere tikladiginizda "Source Package" ve "Libraries" diye iki tane simge cikacaktir.
-Source Package simgesinin ustune gelip 2 kez tikladiginizda "default package" yazisini goreceksiniz. Default package'a sag tik yapip "new" secenegine geliniz.
-Oradan "Java class" secenegine tiklayiniz. Karsiniza "New Java Class" penceresi acilacaktir.Class adina "Grafik" yaziniz. Ardindan default package kismina yeniden 
-sag tik yapip "New Java Class" a tiklayip, class adini "Pencere" yapiniz.
+### Installing
 
-Tum bu adimlardan tamamlandiktan sonra "170201004-170201028Pencere.txt" metin belgesini aciniz. "Ctrl+A" ya basip tum kodu kopyaladiktan sonra olusturdunuz "Pencere"
-classinin icine yapistiriniz.Bu iþlemleri "Grafik" classi icin, "170201004-170201028Grafik.txt" metin belgesinin icindeki bilgileri kopyalayip yapistirarak 
-tekrarlayiniz.
+A step by step series of examples that tell you how to get a development env running
 
-Pencere classini acip sag tik yapip "Run File" secenegine tiklayarak programimizi calistirabilirsiniz.
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
